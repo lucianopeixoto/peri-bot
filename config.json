@@ -1,5 +1,6 @@
 {
   "address": "https://nandoshotspot.wisetail.com/eco_login.php",
   "username": "your_username",
-  "password": "your_password"
+  "password": "your_password",
+  "interval": 90
 }
