@@ -9,7 +9,7 @@ with open('config.json') as config_file:
 address = config['address']
 username = config['username']
 password = config['password']
-password = config['interval']
+interval = config['interval']
 
 # Create a browser instance
 web = Browser()
