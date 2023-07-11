@@ -165,8 +165,8 @@ if anniversary_links:
         comment_input.submit()
         print("Submitted anniversary message.")
 
-        # Random delay between 5 and 60 seconds
-        random_delay = random.randint(5, 60)
+        # Random delay between 1 and 5 seconds
+        random_delay = random.randint(1, 5)
         print(f"Waiting for {random_delay} seconds before the next message.")
         time.sleep(random_delay)
 
